@@ -52,7 +52,7 @@ A modern graphical frontend for `escputil` on Linux, designed for both local USB
 
 # Screenshots
 
-
+![Main Interface](screenshots/main-window.png)
 
 ---
 
