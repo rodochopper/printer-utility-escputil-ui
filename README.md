@@ -1,4 +1,3 @@
-<img width="1140" height="1176" alt="PUEUI" src="https://github.com/user-attachments/assets/0ac18cb6-03a8-4f8a-aaa7-e12879d07446" />
 # Printer Utility - Escputil UI
 
 A modern graphical frontend for `escputil` on Linux, designed for both local USB and remote SSH printer maintenance workflows.
